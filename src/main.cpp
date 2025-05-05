@@ -7,7 +7,8 @@ int main(int argc, char *argv[]) {
 
     QMainWindow window;
     window.setWindowTitle("Calculator");
-    window.resize(300, 400);
+    //window.resize(300, 400);
+    window.setFixedSize(400, 500);
     window.show();
 
     return app.exec();
