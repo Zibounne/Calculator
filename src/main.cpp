@@ -1,14 +1,11 @@
 // src/main.cpp
 #include <QApplication>
-#include <QMainWindow>
+#include "MainWindow.h"
 
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
 
-    QMainWindow window;
-    window.setWindowTitle("Calculator");
-    //window.resize(300, 400);
-    window.setFixedSize(400, 500);
+    MainWindow window;
     window.show();
 
     return app.exec();
