@@ -13,6 +13,10 @@ Future enhancements may include:<br>
 🔹 Scientific calculator features<br>
 🔹 ...
 
+## 📋 Features
+
+🚧 [under construction] 🚧
+
 ## 🛠️ Technologies
 
 📟 Language: C++<br>
