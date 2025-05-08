@@ -15,7 +15,8 @@ Future enhancements may include:<br>
 
 ## 🛠️ Technologies
 
-📟 Language: C++
+📟 Language: C++<br>
+🔨 build: CMake
 
 ## 👤 Author
 
