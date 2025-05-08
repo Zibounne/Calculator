@@ -1,26 +1,21 @@
 # 📌 Calculator
 
-🔹 Welcome to my repository! This project is a simple calculator application built with C++ and Qt, inspired by the Windows calculator.
+🔹 Welcome to my repository! This project is a simple calculator application built with C++.
 
 ## 📜 Description
 
 This repository includes:<br>
-🔹 A fully functional calculator GUI (basic operations: +, -, *, /)<br>
-🔹 Interface designed using Qt Designer<br>
+🔹 A fully functional calculator<br>
+🔹 Clean command-line interface (CLI)<br>
 
 Future enhancements may include:<br>
 🔹 Operation history saved in JSON<br>
-🔹 Keyboard input support<br>
 🔹 Scientific calculator features<br>
 🔹 ...
 
-## 📷 Screenshot
-
-🚧 [Under Construction] 🚧
-
 ## 🛠️ Technologies
 
-📟 Language: C++ / QT
+📟 Language: C++
 
 ## 👤 Author
 
