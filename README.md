@@ -17,6 +17,10 @@ Future enhancements may include:<br>
 
 🚧 [under construction] 🚧
 
+## 📦 Version
+
+🧾 v1.0 – Under development
+
 ## 🛠️ Technologies
 
 📟 Language: C++<br>
